@@ -1,7 +1,8 @@
 # hr-analytics
 HR Analytics Data Analyst Project
 Introduction:
-Welcome to my HR Analytics Data Analyst project! In this project, I explored the intersection of human resources and data analytics to uncover insights, trends, and patterns that inform strategic decision-making within organizations. Leveraging my skills in data analysis, statistical modeling, and visualization techniques, I delved into various HR datasets to extract actionable insights that drive employee engagement, retention, and performance improvement initiatives.
+
+Welcome to my HR Analytics Data Analyst project! In this project, I explored the intersection of human resources and data analytics to uncover insights, trends, and patterns that inform strategic decision-making within organizations. Leveraging my skills in data analysis, statistical modeling, and visualization techniques, I delved into various HR datasets to extract actionable insights that drive employee engagement,retention, and performance improvement initiatives.
 
 Project Goals:
 Employee Turnover Analysis: Analyze historical turnover data to identify factors contributing to employee attrition and develop retention strategies.
